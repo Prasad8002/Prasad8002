@@ -2,7 +2,7 @@
 <h3 align="center">A budding frontend developer from India</h3>
 <br>
 
-<h3> I'm currently 1<sup>st</sup> yr's computer enginnering student at Goverment Polytechnic Pune.
+<h3> I'm currently 3<sup>st</sup> yr's computer enginnering student at Goverment Polytechnic Pune.
 <br>
   <br>
 - 📫 How to reach me :<br>
