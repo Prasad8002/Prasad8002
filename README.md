@@ -17,7 +17,7 @@
 - 🔭 Currently working on exciting full-stack projects
 - 🌱 Always exploring new technologies and frameworks
 - 💡 I love solving real-world problems with code
-- ⚡ Fun fact: I debug with coffee ☕ and determination 💪
+
 
 <br/>
 
@@ -46,19 +46,7 @@
 
 ---
 
-## 🚀 Projects
 
-### 🔹 Project One
-> 📝 *Add your project description here*
-> 
-> 🔗 [View Repository](#) | 🌐 [Live Demo](#)
-
-### 🔹 Project Two
-> 📝 *Add your project description here*
-> 
-> 🔗 [View Repository](#) | 🌐 [Live Demo](#)
-
----
 
 ## 📊 GitHub Stats
 
